@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to use SBCs
 - 💞️ I’m looking to collaborate on something that I can be useful to, design theory, CAD, hardware research, helping brainstorming (nerdy chats)
 - 📫 How to reach me lordwindysquirrel@gmail.com - I can email my Discord username to you also if it's easier!
-- 😄 Pronouns: Hu/Man (I'm kidding)
 - ⚡ Fun fact: I love RSS feeds
 
 <!---
